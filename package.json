@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "grant-1248 parkour",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
